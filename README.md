@@ -92,7 +92,7 @@ Description of some less frequently seen file format:
 15 directories, 39 files
 
 ```
-## Copyright & License
+## COPYRIGHT & LICENSE
 
 Copyright Hisen Zhang & Fanks Fan @ Developer Association, Hangzhou Foreign Languages School
 
