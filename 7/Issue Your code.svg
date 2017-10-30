@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1073" height="468" viewBox="0 0 1073 468">
+<style type="text/css"><![CDATA[
+text { font:12px Dialog; }
+]]></style>
+<rect x="-485" y="-485" width="2043" height="1438" style="fill:rgb(255,255,255);stroke:none" />
+<clipPath id="clip1"><path d="M15,15 L1058,15 L1058,453 L15,453 Z M414,187 L414,270 L747,270 L747,187 Z M414,187 Z M414,187" /></clipPath>
+<path d="M631.8867188,187 L631.8867188,90 L752,90" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip1)" />
+<clipPath id="clip2"><path d="M15,15 L1058,15 L1058,453 L15,453 Z M414,187 L414,270 L747,270 L747,187 Z M414,187 Z M414,187" /></clipPath>
+<path d="M747,238.8828125 L747,243 L813,243" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip2)" />
+<clipPath id="clip3"><path d="M15,15 L1058,15 L1058,453 L15,453 Z M414,187 L414,270 L747,270 L747,187 Z M414,187 Z M414,187" /></clipPath>
+<path d="M622.9921875,270 L622.9921875,396 L752,396" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip3)" />
+<clipPath id="clip4"><path d="M15,15 L1058,15 L1058,453 L15,453 Z M414,187 L414,270 L747,270 L747,187 Z M414,187 Z M414,187" /></clipPath>
+<path d="M504.9296875,270 L504.9296875,343 L372,343" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip4)" />
+<clipPath id="clip5"><path d="M15,15 L1058,15 L1058,453 L15,453 Z M414,187 L414,270 L747,270 L747,187 Z M414,187 Z M414,187" /></clipPath>
+<path d="M479.296875,187 L479.296875,143 L372,143" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip5)" />
+<clipPath id="clip6"><path d="M410,183 L752,183 L752,275 L410,275 L410,183 Z" /></clipPath>
+<path d="M414,271 L747,271 Z M414,271" style="fill:none;stroke:rgb(37,50,73);stroke-width:5" clip-path="url(#clip6)" />
+<text x="451" y="231" style="font:22px Dialog">ISSUE YOUR CODE</text>
+<clipPath id="clip7"><path d="M750,15 L1003,15 L1003,138 L750,138 Z M752,42 L752,89 L893,89 L893,42 Z M752,42 Z M752,42" /></clipPath>
+<path d="M906,90 L906,44 L916,44" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip7)" />
+<clipPath id="clip8"><path d="M750,15 L1003,15 L1003,138 L750,138 Z M752,42 L752,89 L893,89 L893,42 Z M752,42 Z M752,42" /></clipPath>
+<path d="M906,90 L906,75 L916,75" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip8)" />
+<clipPath id="clip9"><path d="M750,15 L1003,15 L1003,138 L750,138 Z M752,42 L752,89 L893,89 L893,42 Z M752,42 Z M752,42" /></clipPath>
+<path d="M906,90 L906,106 L916,106" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip9)" />
+<clipPath id="clip10"><path d="M750,15 L1003,15 L1003,138 L750,138 Z M752,42 L752,89 L893,89 L893,42 Z M752,42 Z M752,42" /></clipPath>
+<path d="M906,90 L906,137 L916,137" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip10)" />
+<clipPath id="clip11"><path d="M749,14 L1004,14 L1004,139 L749,139 L749,14 Z" /></clipPath>
+<path d="M893,90 L906,90" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip11)" />
+<clipPath id="clip12"><path d="M749,39 L897,39 L897,93 L749,93 L749,39 Z" /></clipPath>
+<path d="M752,90 L893,90 Z M752,90" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip12)" />
+<text x="767" y="67" style="font:13px Dialog">QUICK PREP.</text>
+<clipPath id="clip13"><path d="M914,14 L979,14 L979,46 L914,46 L914,14 Z" /></clipPath>
+<path d="M916,44 L976,44 Z M916,44" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip13)" />
+<text x="926" y="31" style="font:10px Dialog">Debug</text>
+<clipPath id="clip14"><path d="M914,45 L1004,45 L1004,77 L914,77 L914,45 Z" /></clipPath>
+<path d="M916,75 L1001,75 Z M916,75" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip14)" />
+<text x="926" y="62" style="font:10px Dialog">Document</text>
+<clipPath id="clip15"><path d="M914,76 L1000,76 L1000,108 L914,108 L914,76 Z" /></clipPath>
+<path d="M916,106 L997,106 Z M916,106" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip15)" />
+<text x="926" y="93" style="font:10px Dialog">Copyright</text>
+<clipPath id="clip16"><path d="M914,107 L986,107 L986,139 L914,139 L914,107 Z" /></clipPath>
+<path d="M916,137 L983,137 Z M916,137" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip16)" />
+<text x="926" y="124" style="font:10px Dialog">License</text>
+<clipPath id="clip17"><path d="M811,168 L1058,168 L1058,291 L811,291 Z M813,195 L813,242 L915,242 L915,195 Z M813,195 Z M813,195" /></clipPath>
+<path d="M928,243 L928,197 L938,197" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip17)" />
+<clipPath id="clip18"><path d="M811,168 L1058,168 L1058,291 L811,291 Z M813,195 L813,242 L915,242 L915,195 Z M813,195 Z M813,195" /></clipPath>
+<path d="M928,243 L928,228 L938,228" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip18)" />
+<clipPath id="clip19"><path d="M811,168 L1058,168 L1058,291 L811,291 Z M813,195 L813,242 L915,242 L915,195 Z M813,195 Z M813,195" /></clipPath>
+<path d="M928,243 L928,259 L938,259" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip19)" />
+<clipPath id="clip20"><path d="M811,168 L1058,168 L1058,291 L811,291 Z M813,195 L813,242 L915,242 L915,195 Z M813,195 Z M813,195" /></clipPath>
+<path d="M928,243 L928,290 L938,290" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip20)" />
+<clipPath id="clip21"><path d="M810,167 L1059,167 L1059,292 L810,292 L810,167 Z" /></clipPath>
+<path d="M915,243 L928,243" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip21)" />
+<clipPath id="clip22"><path d="M810,192 L919,192 L919,246 L810,246 L810,192 Z" /></clipPath>
+<path d="M813,243 L915,243 Z M813,243" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip22)" />
+<text x="828" y="220" style="font:13px Dialog">FORMAT</text>
+<clipPath id="clip23"><path d="M937,168 L1058,168 L1058,198 L937,198 Z M938,169 L938,196 L984,196 L984,169 Z M938,169 Z M938,169" /></clipPath>
+<path d="M997,197 C997,197 998.7929688,197 1001,197 L1006,197" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip23)" />
+<clipPath id="clip24"><path d="M936,167 L1059,167 L1059,199 L936,199 L936,167 Z" /></clipPath>
+<path d="M984,197 L997,197" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip24)" />
+<clipPath id="clip25"><path d="M936,167 L987,167 L987,199 L936,199 L936,167 Z" /></clipPath>
+<path d="M938,197 L984,197 Z M938,197" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip25)" />
+<text x="948" y="184" style="font:10px Dialog">rpm</text>
+<clipPath id="clip26"><path d="M1004,167 L1059,167 L1059,199 L1004,199 L1004,167 Z" /></clipPath>
+<path d="M1006,197 L1056,197 Z M1006,197" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip26)" />
+<text x="1016" y="184" style="font:10px Dialog">.rpm</text>
+<clipPath id="clip27"><path d="M937,199 L1054,199 L1054,229 L937,229 Z M938,200 L938,227 L982,227 L982,200 Z M938,200 Z M938,200" /></clipPath>
+<path d="M995,228 C995,228 996.7929688,228 999,228 L1004,228" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip27)" />
+<clipPath id="clip28"><path d="M936,198 L1055,198 L1055,230 L936,230 L936,198 Z" /></clipPath>
+<path d="M982,228 L995,228" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip28)" />
+<clipPath id="clip29"><path d="M936,198 L985,198 L985,230 L936,230 L936,198 Z" /></clipPath>
+<path d="M938,228 L982,228 Z M938,228" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip29)" />
+<text x="948" y="215" style="font:10px Dialog">deb</text>
+<clipPath id="clip30"><path d="M1002,198 L1055,198 L1055,230 L1002,230 L1002,198 Z" /></clipPath>
+<path d="M1004,228 L1052,228 Z M1004,228" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip30)" />
+<text x="1014" y="215" style="font:10px Dialog">.deb</text>
+<clipPath id="clip31"><path d="M936,229 L982,229 L982,261 L936,261 L936,229 Z" /></clipPath>
+<path d="M938,259 L979,259 Z M938,259" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip31)" />
+<text x="948" y="245" style="font:10px Dialog">bin</text>
+<clipPath id="clip32"><path d="M937,261 L1055,261 L1055,291 L937,291 Z M938,262 L938,289 L977,289 L977,262 Z M938,262 Z M938,262" /></clipPath>
+<path d="M990,290 C990,290 991.7929688,290 994,290 L999,290" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip32)" />
+<clipPath id="clip33"><path d="M936,260 L1056,260 L1056,292 L936,292 L936,260 Z" /></clipPath>
+<path d="M977,290 L990,290" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip33)" />
+<clipPath id="clip34"><path d="M936,260 L980,260 L980,292 L936,292 L936,260 Z" /></clipPath>
+<path d="M938,290 L977,290 Z M938,290" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip34)" />
+<text x="948" y="276" style="font:10px Dialog">src</text>
+<clipPath id="clip35"><path d="M997,260 L1056,260 L1056,292 L997,292 L997,260 Z" /></clipPath>
+<path d="M999,290 L1053,290 Z M999,290" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip35)" />
+<text x="1009" y="276" style="font:10px Dialog">tar.gz</text>
+<clipPath id="clip36"><path d="M750,321 L996,321 L996,444 L750,444 Z M752,348 L752,395 L856,395 L856,348 Z M752,348 Z M752,348" /></clipPath>
+<path d="M869,396 L869,350 L879,350" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip36)" />
+<clipPath id="clip37"><path d="M750,321 L996,321 L996,444 L750,444 Z M752,348 L752,395 L856,395 L856,348 Z M752,348 Z M752,348" /></clipPath>
+<path d="M869,396 L869,381 L879,381" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip37)" />
+<clipPath id="clip38"><path d="M750,321 L996,321 L996,444 L750,444 Z M752,348 L752,395 L856,395 L856,348 Z M752,348 Z M752,348" /></clipPath>
+<path d="M869,396 L869,412 L879,412" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip38)" />
+<clipPath id="clip39"><path d="M750,321 L996,321 L996,444 L750,444 Z M752,348 L752,395 L856,395 L856,348 Z M752,348 Z M752,348" /></clipPath>
+<path d="M869,396 L869,443 L879,443" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip39)" />
+<clipPath id="clip40"><path d="M749,320 L997,320 L997,445 L749,445 L749,320 Z" /></clipPath>
+<path d="M856,396 L869,396" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip40)" />
+<clipPath id="clip41"><path d="M749,345 L860,345 L860,399 L749,399 L749,345 Z" /></clipPath>
+<path d="M752,396 L856,396 Z M752,396" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip41)" />
+<text x="767" y="372" style="font:13px Dialog">LICENSE</text>
+<clipPath id="clip42"><path d="M877,320 L975,320 L975,352 L877,352 L877,320 Z" /></clipPath>
+<path d="M879,350 L972,350 Z M879,350" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip42)" />
+<text x="889" y="336" style="font:10px Dialog">MIT License</text>
+<clipPath id="clip43"><path d="M877,351 L997,351 L997,383 L877,383 L877,351 Z" /></clipPath>
+<path d="M879,381 L994,381 Z M879,381" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip43)" />
+<text x="889" y="367" style="font:10px Dialog">Apache License</text>
+<clipPath id="clip44"><path d="M877,382 L976,382 L976,414 L877,414 L877,382 Z" /></clipPath>
+<path d="M879,412 L973,412 Z M879,412" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip44)" />
+<text x="889" y="398" style="font:10px Dialog">GPL License</text>
+<clipPath id="clip45"><path d="M877,413 L983,413 L983,445 L877,445 L877,413 Z" /></clipPath>
+<path d="M879,443 L980,443 Z M879,443" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip45)" />
+<text x="889" y="429" style="font:10px Dialog">LGPL License</text>
+<clipPath id="clip46"><path d="M15,206 L375,206 L375,453 L15,453 Z M226,295 L226,342 L372,342 L372,295 Z M226,295 Z M226,295" /></clipPath>
+<path d="M213,343 L213,281 L203,281" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip46)" />
+<clipPath id="clip47"><path d="M15,206 L375,206 L375,453 L15,453 Z M226,295 L226,342 L372,342 L372,295 Z M226,295 Z M226,295" /></clipPath>
+<path d="M213,343 L213,405 L203,405" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip47)" />
+<clipPath id="clip48"><path d="M14,205 L376,205 L376,454 L14,454 L14,205 Z" /></clipPath>
+<path d="M226,343 L213,343" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip48)" />
+<clipPath id="clip49"><path d="M223,292 L376,292 L376,346 L223,346 L223,292 Z" /></clipPath>
+<path d="M226,343 L372,343 Z M226,343" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip49)" />
+<text x="242" y="319" style="font:13px Dialog">DIRECTORIES</text>
+<clipPath id="clip50"><path d="M34,206 L205,206 L205,329 L34,329 Z M154,253 L154,280 L203,280 L203,253 Z M154,253 Z M154,253" /></clipPath>
+<path d="M141,281 L141,239 C141,236.7929688 139.2070313,235 137,235 L132,235" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip50)" />
+<clipPath id="clip51"><path d="M34,206 L205,206 L205,329 L34,329 Z M154,253 L154,280 L203,280 L203,253 Z M154,253 Z M154,253" /></clipPath>
+<path d="M141,281 L141,270 C141,267.7929688 139.2070313,266 137,266 L132,266" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip51)" />
+<clipPath id="clip52"><path d="M34,206 L205,206 L205,329 L34,329 Z M154,253 L154,280 L203,280 L203,253 Z M154,253 Z M154,253" /></clipPath>
+<path d="M141,281 L141,293 C141,295.2070313 139.2070313,297 137,297 L132,297" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip52)" />
+<clipPath id="clip53"><path d="M34,206 L205,206 L205,329 L34,329 Z M154,253 L154,280 L203,280 L203,253 Z M154,253 Z M154,253" /></clipPath>
+<path d="M141,281 L141,324 C141,326.2070313 139.2070313,328 137,328 L132,328" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip53)" />
+<clipPath id="clip54"><path d="M33,205 L206,205 L206,330 L33,330 L33,205 Z" /></clipPath>
+<path d="M154,281 L141,281" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip54)" />
+<clipPath id="clip55"><path d="M152,251 L206,251 L206,283 L152,283 L152,251 Z" /></clipPath>
+<path d="M154,281 L203,281 Z M154,281" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip55)" />
+<text x="165" y="267" style="font:10px Dialog">Files</text>
+<clipPath id="clip56"><path d="M33,205 L135,205 L135,237 L33,237 L33,205 Z" /></clipPath>
+<path d="M35,235 L132,235 Z M35,235" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip56)" />
+<text x="46" y="222" style="font:10px Dialog">README.md</text>
+<clipPath id="clip57"><path d="M50,236 L135,236 L135,268 L50,268 L50,236 Z" /></clipPath>
+<path d="M52,266 L132,266 Z M52,266" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip57)" />
+<text x="63" y="252" style="font:10px Dialog">.gitignore</text>
+<clipPath id="clip58"><path d="M56,267 L135,267 L135,299 L56,299 L56,267 Z" /></clipPath>
+<path d="M58,297 L132,297 Z M58,297" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip58)" />
+<text x="69" y="283" style="font:10px Dialog">LICENSE</text>
+<clipPath id="clip59"><path d="M37,298 L135,298 L135,330 L37,330 L37,298 Z" /></clipPath>
+<path d="M39,328 L132,328 Z M39,328" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip59)" />
+<text x="50" y="314" style="font:10px Dialog">COPYRIGHT</text>
+<clipPath id="clip60"><path d="M15,330 L205,330 L205,453 L15,453 Z M115,377 L115,404 L203,404 L203,377 Z M115,377 Z M115,377" /></clipPath>
+<path d="M102,405 L102,363 C102,360.7929688 100.2070313,359 98,359 L93,359" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip60)" />
+<clipPath id="clip61"><path d="M15,330 L205,330 L205,453 L15,453 Z M115,377 L115,404 L203,404 L203,377 Z M115,377 Z M115,377" /></clipPath>
+<path d="M102,405 L102,394 C102,391.7929688 100.2070313,390 98,390 L93,390" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip61)" />
+<clipPath id="clip62"><path d="M15,330 L205,330 L205,453 L15,453 Z M115,377 L115,404 L203,404 L203,377 Z M115,377 Z M115,377" /></clipPath>
+<path d="M102,405 L102,417 C102,419.2070313 100.2070313,421 98,421 L93,421" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip62)" />
+<clipPath id="clip63"><path d="M15,330 L205,330 L205,453 L15,453 Z M115,377 L115,404 L203,404 L203,377 Z M115,377 Z M115,377" /></clipPath>
+<path d="M102,405 L102,448 C102,450.2070313 100.2070313,452 98,452 L93,452" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip63)" />
+<clipPath id="clip64"><path d="M14,329 L206,329 L206,454 L14,454 L14,329 Z" /></clipPath>
+<path d="M115,405 L102,405" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip64)" />
+<clipPath id="clip65"><path d="M113,375 L206,375 L206,407 L113,407 L113,375 Z" /></clipPath>
+<path d="M115,405 L203,405 Z M115,405" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip65)" />
+<text x="126" y="391" style="font:10px Dialog">Directories</text>
+<clipPath id="clip66"><path d="M47,329 L96,329 L96,361 L47,361 L47,329 Z" /></clipPath>
+<path d="M49,359 L93,359 Z M49,359" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip66)" />
+<text x="60" y="345" style="font:10px Dialog">res/</text>
+<clipPath id="clip67"><path d="M47,360 L96,360 L96,392 L47,392 L47,360 Z" /></clipPath>
+<path d="M49,390 L93,390 Z M49,390" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip67)" />
+<text x="60" y="376" style="font:10px Dialog">src/</text>
+<clipPath id="clip68"><path d="M14,391 L96,391 L96,423 L14,423 L14,391 Z" /></clipPath>
+<path d="M16,421 L93,421 Z M16,421" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip68)" />
+<text x="27" y="407" style="font:10px Dialog">example/</text>
+<clipPath id="clip69"><path d="M42,422 L96,422 L96,454 L42,454 L42,422 Z" /></clipPath>
+<path d="M44,452 L93,452 Z M44,452" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip69)" />
+<text x="55" y="438" style="font:10px Dialog">dist/</text>
+<clipPath id="clip70"><path d="M122,83 L375,83 L375,175 L122,175 Z M215,95 L215,142 L372,142 L372,95 Z M215,95 Z M215,95" /></clipPath>
+<path d="M202,143 L202,112 L192,112" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip70)" />
+<clipPath id="clip71"><path d="M122,83 L375,83 L375,175 L122,175 Z M215,95 L215,142 L372,142 L372,95 Z M215,95 Z M215,95" /></clipPath>
+<path d="M202,143 L192,143" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip71)" />
+<clipPath id="clip72"><path d="M122,83 L375,83 L375,175 L122,175 Z M215,95 L215,142 L372,142 L372,95 Z M215,95 Z M215,95" /></clipPath>
+<path d="M202,143 L202,174 L192,174" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip72)" />
+<clipPath id="clip73"><path d="M121,82 L376,82 L376,176 L121,176 L121,82 Z" /></clipPath>
+<path d="M215,143 L202,143" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip73)" />
+<clipPath id="clip74"><path d="M212,92 L376,92 L376,146 L212,146 L212,92 Z" /></clipPath>
+<path d="M215,143 L372,143 Z M215,143" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip74)" />
+<text x="231" y="120" style="font:13px Dialog">DISTRIBUTION</text>
+<clipPath id="clip75"><path d="M129,82 L195,82 L195,114 L129,114 L129,82 Z" /></clipPath>
+<path d="M131,112 L192,112 Z M131,112" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip75)" />
+<text x="142" y="99" style="font:10px Dialog">github</text>
+<clipPath id="clip76"><path d="M142,113 L195,113 L195,145 L142,145 L142,113 Z" /></clipPath>
+<path d="M144,143 L192,143 Z M144,143" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip76)" />
+<text x="155" y="130" style="font:10px Dialog">blog</text>
+<clipPath id="clip77"><path d="M121,144 L195,144 L195,176 L121,176 L121,144 Z" /></clipPath>
+<path d="M123,174 L192,174 Z M123,174" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip77)" />
+<text x="134" y="161" style="font:10px Dialog">CD/DVD</text>
+</svg>

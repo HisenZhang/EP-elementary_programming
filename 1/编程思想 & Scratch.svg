@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1011" height="790" viewBox="0 0 1011 790">
+<style type="text/css"><![CDATA[
+text { font:12px Dialog; }
+]]></style>
+<rect x="-485" y="-485" width="1981" height="1760" style="fill:rgb(255,255,255);stroke:none" />
+<clipPath id="clip1"><path d="M373,492 L888,492 L888,776 L373,776 L373,492 Z" /></clipPath>
+<path d="M383,494 C378.5820313,494 375,497.5820313 375,502 L375,765 C375,769.4179688 378.5820313,773 383,773 L877,773 C881.4179688,773 885,769.4179688 885,765 L885,502 C885,497.5820313 881.4179688,494 877,494 Z M383,494" style="fill:rgb(37,50,73);opacity:0.2;stroke:none" clip-path="url(#clip1)" />
+<clipPath id="clip2"><path d="M373,492 L888,492 L888,776 L373,776 L373,492 Z" /></clipPath>
+<path d="M383,494 C378.5820313,494 375,497.5820313 375,502 L375,765 C375,769.4179688 378.5820313,773 383,773 L877,773 C881.4179688,773 885,769.4179688 885,765 L885,502 C885,497.5820313 881.4179688,494 877,494 Z M383,494" style="fill:none;stroke:rgb(37,50,73);stroke-width:2;stroke-dasharray:12,6;stroke-dashoffset:0" clip-path="url(#clip2)" />
+<clipPath id="clip3"><path d="M430,370 L826,370 L826,484 L430,484 L430,370 Z" /></clipPath>
+<path d="M440,372 C435.5820313,372 432,375.5820313 432,380 L432,473 C432,477.4179688 435.5820313,481 440,481 L815,481 C819.4179688,481 823,477.4179688 823,473 L823,380 C823,375.5820313 819.4179688,372 815,372 Z M440,372" style="fill:rgb(37,50,73);opacity:0.2;stroke:none" clip-path="url(#clip3)" />
+<clipPath id="clip4"><path d="M430,370 L826,370 L826,484 L430,484 L430,370 Z" /></clipPath>
+<path d="M440,372 C435.5820313,372 432,375.5820313 432,380 L432,473 C432,477.4179688 435.5820313,481 440,481 L815,481 C819.4179688,481 823,477.4179688 823,473 L823,380 C823,375.5820313 819.4179688,372 815,372 Z M440,372" style="fill:none;stroke:rgb(37,50,73);stroke-width:2;stroke-dasharray:12,6;stroke-dashoffset:0" clip-path="url(#clip4)" />
+<clipPath id="clip5"><path d="M427,160 L997,160 L997,362 L427,362 L427,160 Z" /></clipPath>
+<path d="M437,162 C432.5820313,162 429,165.5820313 429,170 L429,351 C429,355.4179688 432.5820313,359 437,359 L986,359 C990.4179688,359 994,355.4179688 994,351 L994,170 C994,165.5820313 990.4179688,162 986,162 Z M437,162" style="fill:rgb(37,50,73);opacity:0.2;stroke:none" clip-path="url(#clip5)" />
+<clipPath id="clip6"><path d="M427,160 L997,160 L997,362 L427,362 L427,160 Z" /></clipPath>
+<path d="M437,162 C432.5820313,162 429,165.5820313 429,170 L429,351 C429,355.4179688 432.5820313,359 437,359 L986,359 C990.4179688,359 994,355.4179688 994,351 L994,170 C994,165.5820313 990.4179688,162 986,162 Z M437,162" style="fill:none;stroke:rgb(37,50,73);stroke-width:2;stroke-dasharray:12,6;stroke-dashoffset:0" clip-path="url(#clip6)" />
+<clipPath id="clip7"><path d="M373,14 L938,14 L938,152 L373,152 L373,14 Z" /></clipPath>
+<path d="M383,16 C378.5820313,16 375,19.5820313 375,24 L375,141 C375,145.4179688 378.5820313,149 383,149 L927,149 C931.4179688,149 935,145.4179688 935,141 L935,24 C935,19.5820313 931.4179688,16 927,16 Z M383,16" style="fill:rgb(37,50,73);opacity:0.2;stroke:none" clip-path="url(#clip7)" />
+<clipPath id="clip8"><path d="M373,14 L938,14 L938,152 L373,152 L373,14 Z" /></clipPath>
+<path d="M383,16 C378.5820313,16 375,19.5820313 375,24 L375,141 C375,145.4179688 378.5820313,149 383,149 L927,149 C931.4179688,149 935,145.4179688 935,141 L935,24 C935,19.5820313 931.4179688,16 927,16 Z M383,16" style="fill:none;stroke:rgb(37,50,73);stroke-width:2;stroke-dasharray:12,6;stroke-dashoffset:0" clip-path="url(#clip8)" />
+<clipPath id="clip9"><path d="M15,15 L996,15 L996,775 L15,775 Z M18,316 L18,399 L382,399 L382,316 Z M18,316 Z M18,316" /></clipPath>
+<path d="M232.9179688,316 L232.9179688,123 L386,123" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip9)" />
+<clipPath id="clip10"><path d="M15,15 L996,15 L996,775 L15,775 Z M18,316 L18,399 L382,399 L382,316 Z M18,316 Z M18,316" /></clipPath>
+<path d="M289.328125,316 L289.328125,246 L440,246" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip10)" />
+<clipPath id="clip11"><path d="M15,15 L996,15 L996,775 L15,775 Z M18,316 L18,399 L382,399 L382,316 Z M18,316 Z M18,316" /></clipPath>
+<path d="M320.7734375,399 L320.7734375,441 L443,441" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip11)" />
+<clipPath id="clip12"><path d="M15,15 L996,15 L996,775 L15,775 Z M18,316 L18,399 L382,399 L382,316 Z M18,316 Z M18,316" /></clipPath>
+<path d="M225.515625,399 L225.515625,660 L386,660" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip12)" />
+<clipPath id="clip13"><path d="M14,312 L387,312 L387,404 L14,404 L14,312 Z" /></clipPath>
+<path d="M18,400 L382,400 Z M18,400" style="fill:none;stroke:rgb(37,50,73);stroke-width:5" clip-path="url(#clip13)" />
+<text x="55" y="360" style="font:22px Dialog">编程思想 &amp;  SCRATCH</text>
+<clipPath id="clip14"><path d="M384,25 L927,25 L927,141 L384,141 Z M386,75 L386,122 L536,122 L536,75 Z M386,75 Z M386,75" /></clipPath>
+<path d="M549,123 L549,108 L559,108" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip14)" />
+<clipPath id="clip15"><path d="M384,25 L927,25 L927,141 L384,141 Z M386,75 L386,122 L536,122 L536,75 Z M386,75 Z M386,75" /></clipPath>
+<path d="M549,123 L549,139 L559,139" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip15)" />
+<clipPath id="clip16"><path d="M383,24 L928,24 L928,142 L383,142 L383,24 Z" /></clipPath>
+<path d="M536,123 L549,123" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip16)" />
+<clipPath id="clip17"><path d="M383,72 L540,72 L540,126 L383,126 L383,72 Z" /></clipPath>
+<path d="M386,123 L536,123 Z M386,123" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip17)" />
+<text x="401" y="100" style="font:13px Dialog">数据量单位换算</text>
+<clipPath id="clip18"><path d="M557,78 L663,78 L663,110 L557,110 L557,78 Z" /></clipPath>
+<path d="M559,108 L660,108 Z M559,108" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip18)" />
+<text x="569" y="95" style="font:10px Dialog">1MB=1024KB</text>
+<clipPath id="clip19"><path d="M557,109 L663,109 L663,141 L557,141 L557,109 Z" /></clipPath>
+<path d="M559,139 L660,139 Z M559,139" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip19)" />
+<text x="569" y="126" style="font:10px Dialog">1MB=1000KB</text>
+<clipPath id="clip20"><path d="M665,77 L690,77 L690,142 L665,142 L665,77 Z" /></clipPath>
+<path d="M667,79 L677.5,79 L677.5,140 L667,140 M677.5,109 L688,109" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip20)" />
+<clipPath id="clip21"><path d="M692,24 L928,24 L928,136 L692,136 L692,24 Z" /></clipPath>
+<path d="M794.4375,71 L786.3007813,83.6835938 L784.4375,71 L699,71 C696.2382813,71 694,68.7617188 694,66 L694,31 C694,28.2382813 696.2382813,26 699,26 L920,26 C922.7617188,26 925,28.2382813 925,31 L925,66 C925,68.7617188 922.7617188,71 920,71 Z M794.4375,71" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip21)" />
+<clipPath id="clip22"><path d="M692,24 L928,24 L928,136 L692,136 L692,24 Z" /></clipPath>
+<path d="M794.4375,71 L786.3007813,83.6835938 L784.4375,71 L699,71 C696.2382813,71 694,68.7617188 694,66 L694,31 C694,28.2382813 696.2382813,26 699,26 L920,26 C922.7617188,26 925,28.2382813 925,31 L925,66 C925,68.7617188 922.7617188,71 920,71 Z M794.4375,71" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip22)" />
+<text x="706" y="110" style="font:11px Droid Serif">计算机的行业习惯 </text>
+<clipPath id="clip23"><path d="M692,24 L928,24 L928,74 L692,74 L692,24 Z" /></clipPath>
+<path d="M794.4375,71 L786.3007813,83.6835938 L784.4375,71 L699,71 C696.2382813,71 694,68.7617188 694,66 L694,31 C694,28.2382813 696.2382813,26 699,26 L920,26 C922.7617188,26 925,28.2382813 925,31 L925,66 C925,68.7617188 922.7617188,71 920,71 Z M794.4375,71" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip23)" />
+<clipPath id="clip24"><path d="M692,24 L928,24 L928,74 L692,74 L692,24 Z" /></clipPath>
+<path d="M794.4375,71 L786.3007813,83.6835938 L784.4375,71 L699,71 C696.2382813,71 694,68.7617188 694,66 L694,31 C694,28.2382813 696.2382813,26 699,26 L920,26 C922.7617188,26 925,28.2382813 925,31 L925,66 C925,68.7617188 922.7617188,71 920,71 Z M794.4375,71" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip24)" />
+<text x="723" y="50" style="font:13px Open Sans">所有码农都有一样的习惯</text>
+<clipPath id="clip25"><path d="M706,42 L721,42 L721,57 L706,57 L706,42 Z" /></clipPath>
+<path d="M712.189209,50.8012695 L712.189209,50.0109863 C712.189209,50.0109863 710.7006836,48.0146484 710.5070801,47.0212402 C710.2944336,45.9262695 710.046875,44.6154785 711.395752,43.6125488 C712.5192871,42.777832 714.5822754,42.815918 715.6740723,43.6125488 C716.7658691,44.4060059 716.6960449,45.5961914 716.5246582,46.8625488 C716.3500977,48.1289063 714.940918,50.0109863 714.940918,50.0109863 L714.940918,50.8012695 C714.940918,50.8012695 719.1494141,52.4262695 719.7492676,53.4736328 C720.3459473,54.5178223 719.9650879,55.0732422 717.7021484,55.6000977 C715.4423828,56.1269531 711.2402344,56.1396484 709.2216797,55.6000977 C707.2062988,55.0605469 706.6445313,54.597168 707.2062988,53.4736328 C707.7712402,52.3469238 712.189209,50.8012695 712.189209,50.8012695 Z M712.189209,50.8012695" style="fill:rgb(238,67,47);stroke:none" clip-path="url(#clip25)" />
+<clipPath id="clip26"><path d="M706,42 L721,42 L721,57 L706,57 L706,42 Z" /></clipPath>
+<path d="M712.189209,50.8012695 L712.189209,50.0109863 C712.189209,50.0109863 710.7006836,48.0146484 710.5070801,47.0212402 C710.2944336,45.9262695 710.046875,44.6154785 711.395752,43.6125488 C712.5192871,42.777832 714.5822754,42.815918 715.6740723,43.6125488 C716.7658691,44.4060059 716.6960449,45.5961914 716.5246582,46.8625488 C716.3500977,48.1289063 714.940918,50.0109863 714.940918,50.0109863 L714.940918,50.8012695 C714.940918,50.8012695 719.1494141,52.4262695 719.7492676,53.4736328 C720.3459473,54.5178223 719.9650879,55.0732422 717.7021484,55.6000977 C715.4423828,56.1269531 711.2402344,56.1396484 709.2216797,55.6000977 C707.2062988,55.0605469 706.6445313,54.597168 707.2062988,53.4736328 C707.7712402,52.3469238 712.189209,50.8012695 712.189209,50.8012695 Z M712.189209,50.8012695" style="fill:rgb(239,83,80);stroke:none" clip-path="url(#clip26)" />
+<clipPath id="clip27"><path d="M438,171 L986,171 L986,351 L438,351 Z M440,198 L440,245 L573,245 L573,198 Z M440,198 Z M440,198" /></clipPath>
+<path d="M586,246 L586,215 L596,215" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip27)" />
+<clipPath id="clip28"><path d="M438,171 L986,171 L986,351 L438,351 Z M440,198 L440,245 L573,245 L573,198 Z M440,198 Z M440,198" /></clipPath>
+<path d="M586,246 L586,277 L596,277" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip28)" />
+<clipPath id="clip29"><path d="M437,170 L987,170 L987,352 L437,352 L437,170 Z" /></clipPath>
+<path d="M573,246 L586,246" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip29)" />
+<clipPath id="clip30"><path d="M437,195 L577,195 L577,249 L437,249 L437,195 Z" /></clipPath>
+<path d="M440,246 L573,246 Z M440,246" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip30)" />
+<text x="455" y="223" style="font:13px Dialog">计算机发展史</text>
+<clipPath id="clip31"><path d="M595,171 L877,171 L877,232 L595,232 Z M596,187 L596,214 L708,214 L708,187 Z M596,187 Z M596,187" /></clipPath>
+<path d="M721,215 L721,204 C721,201.7929688 722.7929688,200 725,200 L730,200" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip31)" />
+<clipPath id="clip32"><path d="M595,171 L877,171 L877,232 L595,232 Z M596,187 L596,214 L708,214 L708,187 Z M596,187 Z M596,187" /></clipPath>
+<path d="M721,215 L721,227 C721,229.2070313 722.7929688,231 725,231 L730,231" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip32)" />
+<clipPath id="clip33"><path d="M594,170 L878,170 L878,233 L594,233 L594,170 Z" /></clipPath>
+<path d="M708,215 L721,215" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip33)" />
+<clipPath id="clip34"><path d="M594,185 L711,185 L711,217 L594,217 L594,185 Z" /></clipPath>
+<path d="M596,215 L708,215 Z M596,215" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip34)" />
+<text x="606" y="202" style="font:10px Dialog">早期计算机编程</text>
+<clipPath id="clip35"><path d="M728,170 L859,170 L859,202 L728,202 L728,170 Z" /></clipPath>
+<path d="M730,200 L856,200 Z M730,200" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip35)" />
+<text x="740" y="187" style="font:10px Dialog">按钮+灯泡! 的操作</text>
+<clipPath id="clip36"><path d="M728,201 L878,201 L878,233 L728,233 L728,201 Z" /></clipPath>
+<path d="M730,231 L875,231 Z M730,231" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip36)" />
+<text x="740" y="218" style="font:10px Dialog">漂亮的计算员小姐姐~</text>
+<clipPath id="clip37"><path d="M595,233 L986,233 L986,351 L595,351 Z M596,249 L596,276 L724,276 L724,249 Z M596,249 Z M596,249" /></clipPath>
+<path d="M737,277 L737,266 C737,263.7929688 738.7929688,262 741,262 L746,262" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip37)" />
+<clipPath id="clip38"><path d="M595,233 L986,233 L986,351 L595,351 Z M596,249 L596,276 L724,276 L724,249 Z M596,249 Z M596,249" /></clipPath>
+<path d="M737,277 L737,289 C737,291.2070313 738.7929688,293 741,293 L746,293" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip38)" />
+<clipPath id="clip39"><path d="M594,232 L987,232 L987,352 L594,352 L594,232 Z" /></clipPath>
+<path d="M724,277 L737,277" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip39)" />
+<clipPath id="clip40"><path d="M594,247 L727,247 L727,279 L594,279 L594,247 Z" /></clipPath>
+<path d="M596,277 L724,277 Z M596,277" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip40)" />
+<text x="606" y="264" style="font:10px Dialog">现代编程 编程语言</text>
+<clipPath id="clip41"><path d="M744,232 L796,232 L796,264 L744,264 L744,232 Z" /></clipPath>
+<path d="M746,262 L793,262 Z M746,262" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip41)" />
+<text x="756" y="249" style="font:10px Dialog">抽象</text>
+<clipPath id="clip42"><path d="M745,264 L986,264 L986,351 L745,351 Z M746,265 L746,292 L845,292 L845,265 Z M746,265 Z M746,265" /></clipPath>
+<path d="M832.3164063,304 L814.84375,292 L822.3164063,304 L751,304 C748.2382813,304 746,306.2382813 746,309 L746,344 C746,346.7617188 748.2382813,349 751,349 L979,349 C981.7617188,349 984,346.7617188 984,344 L984,309 C984,306.2382813 981.7617188,304 979,304 Z M832.3164063,304" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip42)" />
+<clipPath id="clip43"><path d="M745,264 L986,264 L986,351 L745,351 Z M746,265 L746,292 L845,292 L845,265 Z M746,265 Z M746,265" /></clipPath>
+<path d="M832.3164063,304 L814.84375,292 L822.3164063,304 L751,304 C748.2382813,304 746,306.2382813 746,309 L746,344 C746,346.7617188 748.2382813,349 751,349 L979,349 C981.7617188,349 984,346.7617188 984,344 L984,309 C984,306.2382813 981.7617188,304 979,304 Z M832.3164063,304" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip43)" />
+<clipPath id="clip44"><path d="M744,263 L848,263 L848,295 L744,295 L744,263 Z" /></clipPath>
+<path d="M746,293 L845,293 Z M746,293" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip44)" />
+<text x="756" y="280" style="font:10px Dialog">使用更为方便</text>
+<clipPath id="clip45"><path d="M745,302 L986,302 L986,351 L745,351 Z M746,265 L746,292 L845,292 L845,265 Z M746,265 Z M746,265" /></clipPath>
+<path d="M832.3164063,304 L814.84375,292 L822.3164063,304 L751,304 C748.2382813,304 746,306.2382813 746,309 L746,344 C746,346.7617188 748.2382813,349 751,349 L979,349 C981.7617188,349 984,346.7617188 984,344 L984,309 C984,306.2382813 981.7617188,304 979,304 Z M832.3164063,304" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip45)" />
+<clipPath id="clip46"><path d="M745,302 L986,302 L986,351 L745,351 Z M746,265 L746,292 L845,292 L845,265 Z M746,265 Z M746,265" /></clipPath>
+<path d="M832.3164063,304 L814.84375,292 L822.3164063,304 L751,304 C748.2382813,304 746,306.2382813 746,309 L746,344 C746,346.7617188 748.2382813,349 751,349 L979,349 C981.7617188,349 984,346.7617188 984,344 L984,309 C984,306.2382813 981.7617188,304 979,304 Z M832.3164063,304" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip46)" />
+<text x="760" y="328" style="font:13px Open Sans">会用Fortran的 Mr. Reimann</text>
+<clipPath id="clip47"><path d="M441,381 L815,381 L815,473 L441,473 Z M443,393 L443,440 L552,440 L552,393 Z M443,393 Z M443,393" /></clipPath>
+<path d="M565,441 L575,441" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip47)" />
+<clipPath id="clip48"><path d="M440,380 L816,380 L816,474 L440,474 L440,380 Z" /></clipPath>
+<path d="M552,441 L565,441" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip48)" />
+<clipPath id="clip49"><path d="M440,390 L556,390 L556,444 L440,444 L440,390 Z" /></clipPath>
+<path d="M443,441 L552,441 Z M443,441" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip49)" />
+<text x="458" y="417" style="font:13px Dialog">SCRATCH</text>
+<clipPath id="clip50"><path d="M574,381 L815,381 L815,473 L574,473 Z M575,413 L575,440 L679,440 L679,413 Z M575,413 Z M575,413" /></clipPath>
+<path d="M692,441 L692,414 C692,411.7929688 693.7929688,410 696,410 L701,410" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip50)" />
+<clipPath id="clip51"><path d="M574,381 L815,381 L815,473 L574,473 Z M575,413 L575,440 L679,440 L679,413 Z M575,413 Z M575,413" /></clipPath>
+<path d="M692,441 C692,441 693.7929688,441 696,441 L701,441" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip51)" />
+<clipPath id="clip52"><path d="M574,381 L815,381 L815,473 L574,473 Z M575,413 L575,440 L679,440 L679,413 Z M575,413 Z M575,413" /></clipPath>
+<path d="M692,441 L692,468 C692,470.2070313 693.7929688,472 696,472 L701,472" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip52)" />
+<clipPath id="clip53"><path d="M573,380 L816,380 L816,474 L573,474 L573,380 Z" /></clipPath>
+<path d="M679,441 L692,441" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip53)" />
+<clipPath id="clip54"><path d="M573,411 L682,411 L682,443 L573,443 L573,411 Z" /></clipPath>
+<path d="M575,441 L679,441 Z M575,441" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip54)" />
+<text x="585" y="427" style="font:10px Dialog">Why Scratch?</text>
+<clipPath id="clip55"><path d="M699,380 L777,380 L777,412 L699,412 L699,380 Z" /></clipPath>
+<path d="M701,410 L774,410 Z M701,410" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip55)" />
+<text x="711" y="396" style="font:10px Dialog">视觉理解</text>
+<clipPath id="clip56"><path d="M699,411 L790,411 L790,443 L699,443 L699,411 Z" /></clipPath>
+<path d="M701,441 L787,441 Z M701,441" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip56)" />
+<text x="711" y="427" style="font:10px Dialog">所见即所得</text>
+<clipPath id="clip57"><path d="M699,442 L816,442 L816,474 L699,474 L699,442 Z" /></clipPath>
+<path d="M701,472 L813,472 Z M701,472" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip57)" />
+<text x="711" y="458" style="font:10px Dialog">无需计算机基础</text>
+<clipPath id="clip58"><path d="M384,503 L877,503 L877,765 L384,765 Z M386,612 L386,659 L489,659 L489,612 Z M386,612 Z M386,612" /></clipPath>
+<path d="M502,660 L502,606 L512,606" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip58)" />
+<clipPath id="clip59"><path d="M384,503 L877,503 L877,765 L384,765 Z M386,612 L386,659 L489,659 L489,612 Z M386,612 Z M386,612" /></clipPath>
+<path d="M502,660 L502,715 L512,715" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip59)" />
+<clipPath id="clip60"><path d="M383,502 L878,502 L878,766 L383,766 L383,502 Z" /></clipPath>
+<path d="M489,660 L502,660" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip60)" />
+<clipPath id="clip61"><path d="M383,609 L493,609 L493,663 L383,663 L383,609 Z" /></clipPath>
+<path d="M386,660 L489,660 Z M386,660" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip61)" />
+<text x="401" y="636" style="font:13px Dialog">PYTHON</text>
+<clipPath id="clip62"><path d="M511,503 L795,503 L795,623 L511,623 Z M512,578 L512,605 L640,605 L640,578 Z M512,578 Z M512,578" /></clipPath>
+<path d="M653,606 L653,595 C653,592.7929688 654.7929688,591 657,591 L662,591" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip62)" />
+<clipPath id="clip63"><path d="M511,503 L795,503 L795,623 L511,623 Z M512,578 L512,605 L640,605 L640,578 Z M512,578 Z M512,578" /></clipPath>
+<path d="M653,606 L653,618 C653,620.2070313 654.7929688,622 657,622 L662,622" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip63)" />
+<clipPath id="clip64"><path d="M510,502 L796,502 L796,624 L510,624 L510,502 Z" /></clipPath>
+<path d="M640,606 L653,606" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip64)" />
+<clipPath id="clip65"><path d="M510,576 L643,576 L643,608 L510,608 L510,576 Z" /></clipPath>
+<path d="M512,606 L640,606 Z M512,606" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip65)" />
+<text x="522" y="592" style="font:10px Dialog">Why not Scratch?</text>
+<clipPath id="clip66"><path d="M661,503 L795,503 L795,592 L661,592 Z M662,563 L662,590 L761,590 L761,563 Z M662,563 Z M662,563" /></clipPath>
+<path d="M720.59375,549 L716,563 L710.59375,549 L667,549 C664.2382813,549 662,546.7617188 662,544 L662,509 C662,506.2382813 664.2382813,504 667,504 L788,504 C790.7617188,504 793,506.2382813 793,509 L793,544 C793,546.7617188 790.7617188,549 788,549 Z M720.59375,549" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip66)" />
+<clipPath id="clip67"><path d="M661,503 L795,503 L795,592 L661,592 Z M662,563 L662,590 L761,590 L761,563 Z M662,563 Z M662,563" /></clipPath>
+<path d="M720.59375,549 L716,563 L710.59375,549 L667,549 C664.2382813,549 662,546.7617188 662,544 L662,509 C662,506.2382813 664.2382813,504 667,504 L788,504 C790.7617188,504 793,506.2382813 793,509 L793,544 C793,546.7617188 790.7617188,549 788,549 Z M720.59375,549" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip67)" />
+<clipPath id="clip68"><path d="M660,561 L764,561 L764,593 L660,593 L660,561 Z" /></clipPath>
+<path d="M662,591 L761,591 Z M662,591" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip68)" />
+<text x="672" y="577" style="font:10px Dialog">功能非常有限</text>
+<clipPath id="clip69"><path d="M661,503 L795,503 L795,552 L661,552 Z M662,563 L662,590 L761,590 L761,563 Z M662,563 Z M662,563" /></clipPath>
+<path d="M720.59375,549 L716,563 L710.59375,549 L667,549 C664.2382813,549 662,546.7617188 662,544 L662,509 C662,506.2382813 664.2382813,504 667,504 L788,504 C790.7617188,504 793,506.2382813 793,509 L793,544 C793,546.7617188 790.7617188,549 788,549 Z M720.59375,549" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip69)" />
+<clipPath id="clip70"><path d="M661,503 L795,503 L795,552 L661,552 Z M662,563 L662,590 L761,590 L761,563 Z M662,563 Z M662,563" /></clipPath>
+<path d="M720.59375,549 L716,563 L710.59375,549 L667,549 C664.2382813,549 662,546.7617188 662,544 L662,509 C662,506.2382813 664.2382813,504 667,504 L788,504 C790.7617188,504 793,506.2382813 793,509 L793,544 C793,546.7617188 790.7617188,549 788,549 Z M720.59375,549" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip70)" />
+<text x="676" y="527" style="font:13px Open Sans">只能欺负猫猫</text>
+<clipPath id="clip71"><path d="M660,592 L764,592 L764,624 L660,624 L660,592 Z" /></clipPath>
+<path d="M662,622 L761,622 Z M662,622" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip71)" />
+<text x="672" y="608" style="font:10px Dialog">编写效率低下</text>
+<clipPath id="clip72"><path d="M511,624 L877,624 L877,765 L511,765 Z M512,687 L512,714 L613,714 L613,687 Z M512,687 Z M512,687" /></clipPath>
+<path d="M626,715 L626,671 C626,668.7929688 627.7929688,667 630,667 L635,667" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip72)" />
+<clipPath id="clip73"><path d="M511,624 L877,624 L877,765 L511,765 Z M512,687 L512,714 L613,714 L613,687 Z M512,687 Z M512,687" /></clipPath>
+<path d="M626,715 L626,706 C626,703.7929688 627.7929688,702 630,702 L635,702" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip73)" />
+<clipPath id="clip74"><path d="M511,624 L877,624 L877,765 L511,765 Z M512,687 L512,714 L613,714 L613,687 Z M512,687 Z M512,687" /></clipPath>
+<path d="M626,715 L626,729 C626,731.2070313 627.7929688,733 630,733 L635,733" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip74)" />
+<clipPath id="clip75"><path d="M511,624 L877,624 L877,765 L511,765 Z M512,687 L512,714 L613,714 L613,687 Z M512,687 Z M512,687" /></clipPath>
+<path d="M626,715 L626,760 C626,762.2070313 627.7929688,764 630,764 L635,764" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip75)" />
+<clipPath id="clip76"><path d="M510,623 L878,623 L878,766 L510,766 L510,623 Z" /></clipPath>
+<path d="M613,715 L626,715" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip76)" />
+<clipPath id="clip77"><path d="M510,685 L616,685 L616,717 L510,717 L510,685 Z" /></clipPath>
+<path d="M512,715 L613,715 Z M512,715" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip77)" />
+<text x="522" y="701" style="font:10px Dialog">Why Python?</text>
+<clipPath id="clip78"><path d="M634,624 L877,624 L877,672 L634,672 Z M635,639 L635,666 L747,666 L747,639 Z M635,639 Z M635,639" /></clipPath>
+<path d="M778,649.46875 L747,650.6484375 L778,659.46875 L778,665 C778,667.7617188 780.2382813,670 783,670 L870,670 C872.7617188,670 875,667.7617188 875,665 L875,630 C875,627.2382813 872.7617188,625 870,625 L783,625 C780.2382813,625 778,627.2382813 778,630 Z M778,649.46875" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip78)" />
+<clipPath id="clip79"><path d="M634,624 L877,624 L877,672 L634,672 Z M635,639 L635,666 L747,666 L747,639 Z M635,639 Z M635,639" /></clipPath>
+<path d="M778,649.46875 L747,650.6484375 L778,659.46875 L778,665 C778,667.7617188 780.2382813,670 783,670 L870,670 C872.7617188,670 875,667.7617188 875,665 L875,630 C875,627.2382813 872.7617188,625 870,625 L783,625 C780.2382813,625 778,627.2382813 778,630 Z M778,649.46875" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip79)" />
+<clipPath id="clip80"><path d="M633,637 L750,637 L750,669 L633,669 L633,637 Z" /></clipPath>
+<path d="M635,667 L747,667 Z M635,667" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip80)" />
+<text x="645" y="653" style="font:10px Dialog">功能强到亮瞎眼</text>
+<clipPath id="clip81"><path d="M776,624 L877,624 L877,672 L776,672 Z M635,639 L635,666 L747,666 L747,639 Z M635,639 Z M635,639" /></clipPath>
+<path d="M778,649.46875 L747,650.6484375 L778,659.46875 L778,665 C778,667.7617188 780.2382813,670 783,670 L870,670 C872.7617188,670 875,667.7617188 875,665 L875,630 C875,627.2382813 872.7617188,625 870,625 L783,625 C780.2382813,625 778,627.2382813 778,630 Z M778,649.46875" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip81)" />
+<clipPath id="clip82"><path d="M776,624 L877,624 L877,672 L776,672 Z M635,639 L635,666 L747,666 L747,639 Z M635,639 Z M635,639" /></clipPath>
+<path d="M778,649.46875 L747,650.6484375 L778,659.46875 L778,665 C778,667.7617188 780.2382813,670 783,670 L870,670 C872.7617188,670 875,667.7617188 875,665 L875,630 C875,627.2382813 872.7617188,625 870,625 L783,625 C780.2382813,625 778,627.2382813 778,630 Z M778,649.46875" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip82)" />
+<text x="792" y="648" style="font:13px Open Sans">这是重点</text>
+<clipPath id="clip83"><path d="M633,672 L808,672 L808,704 L633,704 L633,672 Z" /></clipPath>
+<path d="M635,702 L805,702 Z M635,702" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip83)" />
+<text x="645" y="688" style="font:10px Dialog">高效编写 - 相对于Scratch</text>
+<clipPath id="clip84"><path d="M633,703 L763,703 L763,735 L633,735 L633,703 Z" /></clipPath>
+<path d="M635,733 L760,733 Z M635,733" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip84)" />
+<text x="645" y="719" style="font:10px Dialog">一点点计算机基础</text>
+<clipPath id="clip85"><path d="M633,734 L737,734 L737,766 L633,766 L633,734 Z" /></clipPath>
+<path d="M635,764 L734,764 Z M635,764" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip85)" />
+<text x="645" y="750" style="font:10px Dialog">近似自然语言</text>
+</svg>

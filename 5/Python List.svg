@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1487" height="725" viewBox="0 0 1487 725">
+<style type="text/css"><![CDATA[
+text { font:12px Dialog; }
+]]></style>
+<rect x="-485" y="-447" width="2457" height="1657" style="fill:rgb(255,255,255);stroke:none" />
+<clipPath id="clip1"><path d="M15,127 L1472,127 L1472,710 L15,710 Z M433,328 L433,411 L696,411 L696,328 Z M433,328 Z M433,328" /></clipPath>
+<path d="M593.9257813,328 L593.9257813,177 L701,177" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip1)" />
+<clipPath id="clip2"><path d="M15,127 L1472,127 L1472,710 L15,710 Z M433,328 L433,411 L696,411 L696,328 Z M433,328 Z M433,328" /></clipPath>
+<path d="M695.7460938,328 L695.7460938,308 L759,308" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip2)" />
+<clipPath id="clip3"><path d="M15,127 L1472,127 L1472,710 L15,710 Z M433,328 L433,411 L696,411 L696,328 Z M433,328 Z M433,328" /></clipPath>
+<path d="M584.6953125,411 L584.6953125,650 L701,650" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip3)" />
+<clipPath id="clip4"><path d="M15,127 L1472,127 L1472,710 L15,710 Z M433,328 L433,411 L696,411 L696,328 Z M433,328 Z M433,328" /></clipPath>
+<path d="M461.4179688,411 L461.4179688,447 L372,447" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip4)" />
+<clipPath id="clip5"><path d="M15,127 L1472,127 L1472,710 L15,710 Z M433,328 L433,411 L696,411 L696,328 Z M433,328 Z M433,328" /></clipPath>
+<path d="M433,340.46875 L433,327 L372,327" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip5)" />
+<clipPath id="clip6"><path d="M429,324 L701,324 L701,416 L429,416 L429,324 Z" /></clipPath>
+<path d="M433,412 L696,412 Z M433,412" style="fill:none;stroke:rgb(37,50,73);stroke-width:5" clip-path="url(#clip6)" />
+<text x="470" y="372" style="font:22px Dialog">PYTHON LIST</text>
+<clipPath id="clip7"><path d="M699,127 L1123,127 L1123,194 L699,194 Z M701,129 L701,176 L766,176 L766,129 Z M701,129 Z M701,129" /></clipPath>
+<path d="M779,177 L789,177" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip7)" />
+<clipPath id="clip8"><path d="M698,126 L1124,126 L1124,195 L698,195 L698,126 Z" /></clipPath>
+<path d="M766,177 L779,177" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip8)" />
+<clipPath id="clip9"><path d="M698,126 L770,126 L770,180 L698,180 L698,126 Z" /></clipPath>
+<path d="M701,177 L766,177 Z M701,177" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip9)" />
+<text x="716" y="154" style="font:13px Dialog">本质</text>
+<clipPath id="clip10"><path d="M788,133 L1123,133 L1123,194 L788,194 Z M789,149 L789,176 L927,176 L927,149 Z M789,149 Z M789,149" /></clipPath>
+<path d="M940,177 C940,177 941.7929688,177 944,177 L949,177" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip10)" />
+<clipPath id="clip11"><path d="M787,132 L1124,132 L1124,195 L787,195 L787,132 Z" /></clipPath>
+<path d="M927,177 L940,177" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip11)" />
+<clipPath id="clip12"><path d="M787,147 L930,147 L930,179 L787,179 L787,147 Z" /></clipPath>
+<path d="M789,177 L927,177 Z M789,177" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip12)" />
+<text x="799" y="164" style="font:10px Dialog">一组数据的有序集合</text>
+<clipPath id="clip13"><path d="M948,133 L1123,133 L1123,194 L948,194 Z M949,149 L949,176 L1000,176 L1000,149 Z M949,149 Z M949,149" /></clipPath>
+<path d="M1013,177 L1013,166 C1013,163.7929688 1014.7929688,162 1017,162 L1022,162" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip13)" />
+<clipPath id="clip14"><path d="M948,133 L1123,133 L1123,194 L948,194 Z M949,149 L949,176 L1000,176 L1000,149 Z M949,149 Z M949,149" /></clipPath>
+<path d="M1013,177 L1013,189 C1013,191.2070313 1014.7929688,193 1017,193 L1022,193" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip14)" />
+<clipPath id="clip15"><path d="M947,132 L1124,132 L1124,195 L947,195 L947,132 Z" /></clipPath>
+<path d="M1000,177 L1013,177" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip15)" />
+<clipPath id="clip16"><path d="M947,147 L1003,147 L1003,179 L947,179 L947,147 Z" /></clipPath>
+<path d="M949,177 L1000,177 Z M949,177" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip16)" />
+<text x="959" y="164" style="font:10px Dialog">允许:</text>
+<clipPath id="clip17"><path d="M1020,132 L1124,132 L1124,164 L1020,164 L1020,132 Z" /></clipPath>
+<path d="M1022,162 L1121,162 Z M1022,162" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip17)" />
+<text x="1032" y="149" style="font:10px Dialog">数据类型不同</text>
+<clipPath id="clip18"><path d="M1020,163 L1098,163 L1098,195 L1020,195 L1020,163 Z" /></clipPath>
+<path d="M1022,193 L1095,193 Z M1022,193" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip18)" />
+<text x="1032" y="180" style="font:10px Dialog">动态长度</text>
+<clipPath id="clip19"><path d="M757,224 L1223,224 L1223,423 L757,423 Z M759,260 L759,307 L858,307 L858,260 Z M759,260 Z M759,260" /></clipPath>
+<path d="M871,308 L871,253 L881,253" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip19)" />
+<clipPath id="clip20"><path d="M757,224 L1223,224 L1223,423 L757,423 Z M759,260 L759,307 L858,307 L858,260 Z M759,260 Z M759,260" /></clipPath>
+<path d="M871,308 L871,284 L881,284" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip20)" />
+<clipPath id="clip21"><path d="M757,224 L1223,224 L1223,423 L757,423 Z M759,260 L759,307 L858,307 L858,260 Z M759,260 Z M759,260" /></clipPath>
+<path d="M871,308 L871,328 L881,328" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip21)" />
+<clipPath id="clip22"><path d="M757,224 L1223,224 L1223,423 L757,423 Z M759,260 L759,307 L858,307 L858,260 Z M759,260 Z M759,260" /></clipPath>
+<path d="M871,308 L871,364 L881,364" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip22)" />
+<clipPath id="clip23"><path d="M756,223 L1224,223 L1224,424 L756,424 L756,223 Z" /></clipPath>
+<path d="M858,308 L871,308" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip23)" />
+<clipPath id="clip24"><path d="M756,257 L862,257 L862,311 L756,311 L756,257 Z" /></clipPath>
+<path d="M759,308 L858,308 Z M759,308" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip24)" />
+<text x="774" y="285" style="font:13px Dialog">一些性质</text>
+<clipPath id="clip25"><path d="M879,223 L1043,223 L1043,255 L879,255 L879,223 Z" /></clipPath>
+<path d="M881,253 L1040,253 Z M881,253" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip25)" />
+<text x="891" y="240" style="font:10px Dialog">可以添加,删除,插入元素</text>
+<clipPath id="clip26"><path d="M879,254 L1022,254 L1022,286 L879,286 L879,254 Z" /></clipPath>
+<path d="M881,284 L1019,284 Z M881,284" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip26)" />
+<text x="891" y="271" style="font:10px Dialog">列表可以拆分或合并</text>
+<clipPath id="clip27"><path d="M880,286 L1223,286 L1223,334 L880,334 Z M881,300 L881,327 L1006,327 L1006,300 Z M881,300 Z M881,300" /></clipPath>
+<path d="M1056,311.4101563 L1006,312.3828125 L1056,321.4101563 L1056,327 C1056,329.7617188 1058.2382813,332 1061,332 L1216,332 C1218.7617188,332 1221,329.7617188 1221,327 L1221,292 C1221,289.2382813 1218.7617188,287 1216,287 L1061,287 C1058.2382813,287 1056,289.2382813 1056,292 Z M1056,311.4101563" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip27)" />
+<clipPath id="clip28"><path d="M880,286 L1223,286 L1223,334 L880,334 Z M881,300 L881,327 L1006,327 L1006,300 Z M881,300 Z M881,300" /></clipPath>
+<path d="M1056,311.4101563 L1006,312.3828125 L1056,321.4101563 L1056,327 C1056,329.7617188 1058.2382813,332 1061,332 L1216,332 C1218.7617188,332 1221,329.7617188 1221,327 L1221,292 C1221,289.2382813 1218.7617188,287 1216,287 L1061,287 C1058.2382813,287 1056,289.2382813 1056,292 Z M1056,311.4101563" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip28)" />
+<clipPath id="clip29"><path d="M879,298 L1009,298 L1009,330 L879,330 L879,298 Z" /></clipPath>
+<path d="M881,328 L1006,328 Z M881,328" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip29)" />
+<text x="891" y="315" style="font:10px Dialog">通过下标选取元素</text>
+<clipPath id="clip30"><path d="M1054,286 L1223,286 L1223,334 L1054,334 Z M881,300 L881,327 L1006,327 L1006,300 Z M881,300 Z M881,300" /></clipPath>
+<path d="M1056,311.4101563 L1006,312.3828125 L1056,321.4101563 L1056,327 C1056,329.7617188 1058.2382813,332 1061,332 L1216,332 C1218.7617188,332 1221,329.7617188 1221,327 L1221,292 C1221,289.2382813 1218.7617188,287 1216,287 L1061,287 C1058.2382813,287 1056,289.2382813 1056,292 Z M1056,311.4101563" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip30)" />
+<clipPath id="clip31"><path d="M1054,286 L1223,286 L1223,334 L1054,334 Z M881,300 L881,327 L1006,327 L1006,300 Z M881,300 Z M881,300" /></clipPath>
+<path d="M1056,311.4101563 L1006,312.3828125 L1056,321.4101563 L1056,327 C1056,329.7617188 1058.2382813,332 1061,332 L1216,332 C1218.7617188,332 1221,329.7617188 1221,327 L1221,292 C1221,289.2382813 1218.7617188,287 1216,287 L1061,287 C1058.2382813,287 1056,289.2382813 1056,292 Z M1056,311.4101563" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip31)" />
+<text x="1070" y="311" style="font:13px Open Sans">下标从零开始计数</text>
+<clipPath id="clip32"><path d="M880,335 L1216,335 L1216,423 L880,423 Z M881,336 L881,363 L1072,363 L1072,336 Z M881,336 Z M881,336" /></clipPath>
+<path d="M1055.2695313,376 L1016.453125,363 L1045.2695313,376 L1037,376 C1034.2382813,376 1032,378.2382813 1032,381 L1032,416 C1032,418.7617188 1034.2382813,421 1037,421 L1209,421 C1211.7617188,421 1214,418.7617188 1214,416 L1214,381 C1214,378.2382813 1211.7617188,376 1209,376 Z M1055.2695313,376" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip32)" />
+<clipPath id="clip33"><path d="M880,335 L1216,335 L1216,423 L880,423 Z M881,336 L881,363 L1072,363 L1072,336 Z M881,336 Z M881,336" /></clipPath>
+<path d="M1055.2695313,376 L1016.453125,363 L1045.2695313,376 L1037,376 C1034.2382813,376 1032,378.2382813 1032,381 L1032,416 C1032,418.7617188 1034.2382813,421 1037,421 L1209,421 C1211.7617188,421 1214,418.7617188 1214,416 L1214,381 C1214,378.2382813 1211.7617188,376 1209,376 Z M1055.2695313,376" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip33)" />
+<clipPath id="clip34"><path d="M879,334 L1075,334 L1075,366 L879,366 L879,334 Z" /></clipPath>
+<path d="M881,364 L1072,364 Z M881,364" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip34)" />
+<text x="891" y="351" style="font:10px Dialog">可以用各种Method来处理list</text>
+<clipPath id="clip35"><path d="M1030,374 L1216,374 L1216,423 L1030,423 Z M881,336 L881,363 L1072,363 L1072,336 Z M881,336 Z M881,336" /></clipPath>
+<path d="M1055.2695313,376 L1016.453125,363 L1045.2695313,376 L1037,376 C1034.2382813,376 1032,378.2382813 1032,381 L1032,416 C1032,418.7617188 1034.2382813,421 1037,421 L1209,421 C1211.7617188,421 1214,418.7617188 1214,416 L1214,381 C1214,378.2382813 1211.7617188,376 1209,376 Z M1055.2695313,376" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip35)" />
+<clipPath id="clip36"><path d="M1030,374 L1216,374 L1216,423 L1030,423 Z M881,336 L881,363 L1072,363 L1072,336 Z M881,336 Z M881,336" /></clipPath>
+<path d="M1055.2695313,376 L1016.453125,363 L1045.2695313,376 L1037,376 C1034.2382813,376 1032,378.2382813 1032,381 L1032,416 C1032,418.7617188 1034.2382813,421 1037,421 L1209,421 C1211.7617188,421 1214,418.7617188 1214,416 L1214,381 C1214,378.2382813 1211.7617188,376 1209,376 Z M1055.2695313,376" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip36)" />
+<text x="1046" y="399" style="font:13px Open Sans">这个性质有广泛应用</text>
+<clipPath id="clip37"><path d="M699,453 L1472,453 L1472,710 L699,710 Z M701,602 L701,649 L856,649 L856,602 Z M701,602 Z M701,602" /></clipPath>
+<path d="M869,650 L879,650" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip37)" />
+<clipPath id="clip38"><path d="M698,452 L1473,452 L1473,711 L698,711 L698,452 Z" /></clipPath>
+<path d="M856,650 L869,650" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip38)" />
+<clipPath id="clip39"><path d="M699,453 L1472,453 L1472,710 L699,710 Z M701,602 L701,649 L856,649 L856,602 Z M701,602 Z M701,602" /></clipPath>
+<path d="M797.0351563,663 L789.9570313,649 L787.0351563,663 L705,663 C702.2382813,663 700,665.2382813 700,668 L700,703 C700,705.7617188 702.2382813,708 705,708 L911,708 C913.7617188,708 916,705.7617188 916,703 L916,668 C916,665.2382813 913.7617188,663 911,663 Z M797.0351563,663" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip39)" />
+<clipPath id="clip40"><path d="M699,453 L1472,453 L1472,710 L699,710 Z M701,602 L701,649 L856,649 L856,602 Z M701,602 Z M701,602" /></clipPath>
+<path d="M797.0351563,663 L789.9570313,649 L787.0351563,663 L705,663 C702.2382813,663 700,665.2382813 700,668 L700,703 C700,705.7617188 702.2382813,708 705,708 L911,708 C913.7617188,708 916,705.7617188 916,703 L916,668 C916,665.2382813 913.7617188,663 911,663 Z M797.0351563,663" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip40)" />
+<clipPath id="clip41"><path d="M698,599 L860,599 L860,653 L698,653 L698,599 Z" /></clipPath>
+<path d="M701,650 L856,650 Z M701,650" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip41)" />
+<text x="716" y="626" style="font:13px Dialog">METHODS 方法</text>
+<clipPath id="clip42"><path d="M877,452 L1473,452 L1473,652 L877,652 L877,452 Z" /></clipPath>
+<path d="M879,650 L1470,650 Z M879,650" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip42)" />
+<text x="889" y="468" style="font:10px Dialog">  1   	list.append(obj)在列表末尾添加新的对象             </text>
+<text x="889" y="489" style="font:10px Dialog">  2   	list.count(obj)统计某个元素在列表中出现的次数          </text>
+<text x="889" y="510" style="font:10px Dialog">  3   	list.extend(seq)在列表末尾一次性追加另一个序列中的多个值（用新列表扩展原来的列表）</text>
+<text x="889" y="531" style="font:10px Dialog">  4   	list.index(obj)从列表中找出某个值第一个匹配项的索引位置     </text>
+<text x="889" y="552" style="font:10px Dialog">  5   	list.insert(index, obj)将对象插入列表          </text>
+<text x="889" y="573" style="font:10px Dialog">  6   	list.pop(obj=list[-1])移除列表中的一个元素（默认最后一个元素），并且返回该元素的值</text>
+<text x="889" y="594" style="font:10px Dialog">  7   	list.remove(obj)移除列表中某个值的第一个匹配项         </text>
+<text x="889" y="615" style="font:10px Dialog">  8   	list.reverse()反向列表中元素                   </text>
+<text x="889" y="636" style="font:10px Dialog">  9   	list.sort([func])对原列表进行排序               </text>
+<clipPath id="clip43"><path d="M699,661 L919,661 L919,710 L699,710 Z M701,602 L701,649 L856,649 L856,602 Z M701,602 Z M701,602" /></clipPath>
+<path d="M797.0351563,663 L789.9570313,649 L787.0351563,663 L705,663 C702.2382813,663 700,665.2382813 700,668 L700,703 C700,705.7617188 702.2382813,708 705,708 L911,708 C913.7617188,708 916,705.7617188 916,703 L916,668 C916,665.2382813 913.7617188,663 911,663 Z M797.0351563,663" style="fill:rgb(126,138,163);stroke:none" clip-path="url(#clip43)" />
+<clipPath id="clip44"><path d="M699,661 L919,661 L919,710 L699,710 Z M701,602 L701,649 L856,649 L856,602 Z M701,602 Z M701,602" /></clipPath>
+<path d="M797.0351563,663 L789.9570313,649 L787.0351563,663 L705,663 C702.2382813,663 700,665.2382813 700,668 L700,703 C700,705.7617188 702.2382813,708 705,708 L911,708 C913.7617188,708 916,705.7617188 916,703 L916,668 C916,665.2382813 913.7617188,663 911,663 Z M797.0351563,663" style="fill:none;stroke:rgb(126,138,163);stroke-width:2" clip-path="url(#clip44)" />
+<text x="714" y="686" style="font:13px Open Sans">方法是对当前对象的操作</text>
+<clipPath id="clip45"><path d="M15,397 L375,397 L375,464 L15,464 Z M307,399 L307,446 L372,446 L372,399 Z M307,399 Z M307,399" /></clipPath>
+<path d="M294,447 L294,432 L284,432" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip45)" />
+<clipPath id="clip46"><path d="M15,397 L375,397 L375,464 L15,464 Z M307,399 L307,446 L372,446 L372,399 Z M307,399 Z M307,399" /></clipPath>
+<path d="M294,447 L294,463 L284,463" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip46)" />
+<clipPath id="clip47"><path d="M14,396 L376,396 L376,465 L14,465 L14,396 Z" /></clipPath>
+<path d="M307,447 L294,447" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip47)" />
+<clipPath id="clip48"><path d="M304,396 L376,396 L376,450 L304,450 L304,396 Z" /></clipPath>
+<path d="M307,447 L372,447 Z M307,447" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip48)" />
+<text x="323" y="423" style="font:13px Dialog">应用</text>
+<clipPath id="clip49"><path d="M31,403 L286,403 L286,433 L31,433 Z M224,404 L224,431 L284,431 L284,404 Z M224,404 Z M224,404" /></clipPath>
+<path d="M211,432 C211,432 209.2070313,432 207,432 L202,432" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip49)" />
+<clipPath id="clip50"><path d="M30,402 L287,402 L287,434 L30,434 L30,402 Z" /></clipPath>
+<path d="M224,432 L211,432" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip50)" />
+<clipPath id="clip51"><path d="M222,402 L287,402 L287,434 L222,434 L222,402 Z" /></clipPath>
+<path d="M224,432 L284,432 Z M224,432" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip51)" />
+<text x="235" y="418" style="font:10px Dialog">扑克牌</text>
+<clipPath id="clip52"><path d="M30,402 L205,402 L205,434 L30,434 L30,402 Z" /></clipPath>
+<path d="M32,432 L202,432 Z M32,432" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip52)" />
+<text x="43" y="418" style="font:10px Dialog">洗牌 random.shuffle(list)</text>
+<clipPath id="clip53"><path d="M15,434 L286,434 L286,464 L15,464 Z M237,435 L237,462 L284,462 L284,435 Z M237,435 Z M237,435" /></clipPath>
+<path d="M224,463 C224,463 222.2070313,463 220,463 L215,463" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip53)" />
+<clipPath id="clip54"><path d="M14,433 L287,433 L287,465 L14,465 L14,433 Z" /></clipPath>
+<path d="M237,463 L224,463" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip54)" />
+<clipPath id="clip55"><path d="M235,433 L287,433 L287,465 L235,465 L235,433 Z" /></clipPath>
+<path d="M237,463 L284,463 Z M237,463" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip55)" />
+<text x="248" y="449" style="font:10px Dialog">抽奖</text>
+<clipPath id="clip56"><path d="M14,433 L218,433 L218,465 L14,465 L14,433 Z" /></clipPath>
+<path d="M16,463 L215,463 Z M16,463" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip56)" />
+<text x="27" y="449" style="font:10px Dialog">随机抽样 random.sample(list)</text>
+<clipPath id="clip57"><path d="M53,277 L375,277 L375,344 L53,344 Z M167,279 L167,326 L372,326 L372,279 Z M167,279 Z M167,279" /></clipPath>
+<path d="M154,327 L154,312 L144,312" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip57)" />
+<clipPath id="clip58"><path d="M53,277 L375,277 L375,344 L53,344 Z M167,279 L167,326 L372,326 L372,279 Z M167,279 Z M167,279" /></clipPath>
+<path d="M154,327 L154,343 L144,343" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip58)" />
+<clipPath id="clip59"><path d="M52,276 L376,276 L376,345 L52,345 L52,276 Z" /></clipPath>
+<path d="M167,327 L154,327" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip59)" />
+<clipPath id="clip60"><path d="M164,276 L376,276 L376,330 L164,330 L164,276 Z" /></clipPath>
+<path d="M167,327 L372,327 Z M167,327" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip60)" />
+<text x="183" y="304" style="font:13px Dialog">由LIST派生的数据结构</text>
+<clipPath id="clip61"><path d="M71,282 L147,282 L147,314 L71,314 L71,282 Z" /></clipPath>
+<path d="M73,312 L144,312 Z M73,312" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip61)" />
+<text x="84" y="299" style="font:10px Dialog">栈 Stack</text>
+<clipPath id="clip62"><path d="M52,313 L147,313 L147,345 L52,345 L52,313 Z" /></clipPath>
+<path d="M54,343 L144,343 Z M54,343" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip62)" />
+<text x="65" y="330" style="font:10px Dialog">队列 Queue</text>
+<clipPath id="clip63"><path d="M86,53 L380,53 L380,125 L86,125 Z M290,55 L290,107 L377,107 L377,55 Z M290,55 Z M290,55" /></clipPath>
+<path d="M277,108 L277,93 L267,93" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip63)" />
+<clipPath id="clip64"><path d="M86,53 L380,53 L380,125 L86,125 Z M290,55 L290,107 L377,107 L377,55 Z M290,55 Z M290,55" /></clipPath>
+<path d="M277,108 L277,124 L267,124" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip64)" />
+<clipPath id="clip65"><path d="M85,52 L381,52 L381,126 L85,126 L85,52 Z" /></clipPath>
+<path d="M290,108 L277,108" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip65)" />
+<clipPath id="clip66"><path d="M287,52 L381,52 L381,111 L287,111 L287,52 Z" /></clipPath>
+<path d="M290,108 L377,108 Z M290,108" style="fill:none;stroke:rgb(37,50,73);stroke-width:4" clip-path="url(#clip66)" />
+<text x="308" y="84" style="font:16px Dialog">tuple</text>
+<clipPath id="clip67"><path d="M120,63 L270,63 L270,95 L120,95 L120,63 Z" /></clipPath>
+<path d="M122,93 L267,93 Z M122,93" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip67)" />
+<text x="133" y="80" style="font:10px Dialog">区别: 定义后无法变更</text>
+<clipPath id="clip68"><path d="M85,94 L270,94 L270,126 L85,126 L85,94 Z" /></clipPath>
+<path d="M87,124 L267,124 Z M87,124" style="fill:none;stroke:rgb(37,50,73)" clip-path="url(#clip68)" />
+<text x="98" y="111" style="font:10px Dialog">适用场景: (ip address:port)</text>
+<clipPath id="clip69"><path d="M339,14 L559,14 L559,332 L339,332 L339,14 Z" /></clipPath>
+<path d="M555.46875,328 C488,18 392,214 344.9375,107" style="fill:none;stroke:rgb(255,153,0);stroke-width:3" clip-path="url(#clip69)" />
+<clipPath id="clip70"><path d="M339,14 L559,14 L559,332 L339,332 L339,14 Z" /></clipPath>
+<path d="M353,112.9140625 L344.9375,107 L343.8476563,116.9414063 Z M353,112.9140625" style="fill:rgb(255,153,0);stroke:none" clip-path="url(#clip70)" />
+<clipPath id="clip71"><path d="M339,14 L559,14 L559,332 L339,332 L339,14 Z" /></clipPath>
+<path d="M353,112.9140625 L344.9375,107 L343.8476563,116.9414063 Z M353,112.9140625" style="fill:none;stroke:rgb(255,153,0);stroke-width:3" clip-path="url(#clip71)" />
+</svg>
