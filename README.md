@@ -1,4 +1,4 @@
-# Elementary Programming
+# Elementary Programming Study Package
 
 ## INTRODUCTION
 
