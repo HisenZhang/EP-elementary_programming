@@ -32,7 +32,7 @@ Description of some less frequently seen file format:
 
 
 
-```bash
+```
 .
 ├── 1
 │   ├── EP-01-QUICK-VIEW-SCRATCH.mp4
@@ -90,7 +90,6 @@ Description of some less frequently seen file format:
 └── README.md
 
 15 directories, 39 files
-
 ```
 ## COPYRIGHT & LICENSE
 
