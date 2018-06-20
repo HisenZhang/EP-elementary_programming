@@ -9,14 +9,26 @@ This file contains several key information and instructions. Please read them ca
 ## CONTENTS
 
 Period 1 contains several important thinkings and the use of scratch.
+
 Period 2 contains two basic logical structure, if & loop.
+
 Period 3 contains introduction to Python.
+
 Period 4 contains the concept of function and call.
+
 Period 5 contains the concept of list, method and random.
-Period 6 contains how to setup environment for software developing.
+
+Period 6 contains how to setup environment for software 
+
+developing.
+
 Period 7 contains the conventions in software issuing. 
+
 Practice contains several exercise for practice.
-Project contains examples of final project, applying all knowledge learned.
+
+Project contains examples of final project, applying all 
+
+knowledge learned.
 
 ## DIRECTORIES & FILES
 
@@ -27,6 +39,7 @@ In most of cases, you may search related contents with keyword by your resource 
 Description of some less frequently seen file format:
 
 - `.svg` are the vector graphs for mind map. 
+- `.pdf` are the PDF files for mind map. This is included to extend the compatibility so that this package can be viewed where `.svg` files are not supported.
 - `.xmind` are mind maps, edited with Xmind.
 - `.md` are markdown files. 
 
@@ -36,26 +49,31 @@ Description of some less frequently seen file format:
 .
 ├── 1
 │   ├── EP-01-QUICK-VIEW-SCRATCH.mp4
+│   ├── 编程思想 & Scratch.pdf
 │   ├── 编程思想 & Scratch.svg
 │   └── 编程思想 & Scratch.xmind
 ├── 2
 │   ├── EP-02-LOGICAL-STRUCTURE.mp4
 │   ├── img
 │   │   └── Human_computers_-_Dryden.jpg
+│   ├── 程序的逻辑结构.pdf
 │   ├── 程序的逻辑结构.svg
 │   └── 程序的逻辑结构.xmind
 ├── 3
 │   ├── BASIC_IDEAS.pptx
 │   ├── EP-03-PYTHON-INTRODUCTION.mp4
+│   ├── Python入门.pdf
 │   ├── Python入门.svg
 │   └── Python入门.xmind
 ├── 4
 │   ├── EP-04-DEFINE-FUCTION.mp4
 │   ├── fib.gif
+│   ├── Function.pdf
 │   ├── Function.svg
 │   └── Function.xmind
 ├── 5
 │   ├── EP-05-LIST-METHOD-RANDOM.mp4
+│   ├── Python List.pdf
 │   ├── Python List.svg
 │   ├── Python List.xmind
 │   └── Stack&Queue.png
@@ -67,6 +85,7 @@ Description of some less frequently seen file format:
 ├── 7
 │   ├── EP-07-CODE-ISSUE.mp4
 │   ├── Issue.xmind
+│   ├── Issue Your code.pdf
 │   └── Issue Your code.svg
 ├──  AUTHOR
 ├── LICENSE
@@ -89,7 +108,7 @@ Description of some less frequently seen file format:
 │           └── password_keeper.py
 └── README.md
 
-15 directories, 39 files
+15 directories, 45 files
 ```
 ## COPYRIGHT & LICENSE
 
