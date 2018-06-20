@@ -18,17 +18,13 @@ Period 4 contains the concept of function and call.
 
 Period 5 contains the concept of list, method and random.
 
-Period 6 contains how to setup environment for software 
-
-developing.
+Period 6 contains how to setup environment for software developing.
 
 Period 7 contains the conventions in software issuing. 
 
 Practice contains several exercise for practice.
 
-Project contains examples of final project, applying all 
-
-knowledge learned.
+Project contains examples of final project, applying all knowledge learned.
 
 ## DIRECTORIES & FILES
 
